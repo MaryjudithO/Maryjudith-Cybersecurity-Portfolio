@@ -1,6 +1,6 @@
-# Maryjudith Ogunaka - Cybersecurity Portfolio
+# Maryjudith Chidinma Ogunaka - Cybersecurity Portfolio
 
-Aspiring Security Operations Analyst with a background in Information Security, networking, and hands-on cybersecurity training.
+Aspiring Security Operations Analyst with a background in Information Security, networking, and hands on cybersecurity training.
 
 ## Projects
 
@@ -30,7 +30,14 @@ Aspiring Security Operations Analyst with a background in Information Security, 
 - Examined forensic artifacts.
 - Practiced evidence preservation and reporting.
 
-## Certifications
+  ###  Linux Essentials (ICDFA)
+- Practiced Linux command-line navigation and file system management.
+- Worked with files, directories, permissions, and user management.
+- Used common Linux commands for administration and troubleshooting tasks.
+- Developed foundational Linux skills relevant to cybersecurity and security operations.
+- Gained hands-on experience with Linux environments through ICDFA training labs.
+
+ ## Certifications
 
 - Signal Practitioner – SOC Analysis
 - Certified Cyber Core Associate
