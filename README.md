@@ -45,12 +45,13 @@ Aspiring Security Operations Analyst with a background in Information Security, 
 - Incident Response & Digital Forensics (DFIR)
 - Governance, Risk & Compliance (GRC)
 - Applied Cryptography
-
+- AWS Cloud computing 
 ## Areas of Interest
 
 - Security Operations (SOC)
 - Incident Response
 - Threat Intelligence
+- identity and Access Management
 - Vulnerability Management
 - Digital Forensics
 - Cloud Security
